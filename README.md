@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y0NTcyN2I3MzkxYThjODg1N2YxOGFlNjEyNmQ4NTc2MGE4MTA0MiZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/konstantin-kovalenko-38bb23233/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flate&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   <a href="https://www.facebook.com/Kostua">
   <img src="https://img.shields.io/badge/facebook-blue?style=flate&logo=facebooke&logoColor=white" alt="facebook Badge"/>
@@ -32,3 +31,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/vk-blue?style=flate&logo=vk&logoColor=white" alt="vk Badge"/>
     </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=KovalenkoKonstantin&style=flat-square&color=blue" alt=""/>
