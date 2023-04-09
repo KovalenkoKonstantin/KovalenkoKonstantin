@@ -50,10 +50,16 @@
     <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;      
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microfost SQL Server" width="40" height="40"/>&nbsp;      
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" title="VisualBisic" alt="VisualBisic" width="40" height="40"/>&nbsp; 
-  <img src="https://logowik.com/content/uploads/images/microsoft-excel-new.jpg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://networkencyclopedia.com/wp-content/uploads/2020/04/transact-sql.jpg" title="Transact-SQL" **alt="Transact-SQL" width="40" height="40"/>
+  <img src="https://gluonhq.com/wp-content/uploads/2015/09/javafx_logo1-300x278@2x.jpg" title="Java-FX" **alt="Java-FX" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ IDEA" **alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" title="PyCharm" **alt="PyCharm" width="40" height="40"/> 
+     
+      
 </div>
