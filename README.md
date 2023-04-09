@@ -24,15 +24,22 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
   ---
-  
-  ### :woman_technologist: About Me :
+ <div align="left"> 
+  # :woman_technologist: About Me :
+  <div align="left"> 
   I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
-  - :telescope: I work as a software engineer and participate in the development of programs for enterprise.
+ <div lign="left"> 
+   
+- :telescope: I work as a software engineer and participate in the development of programs for enterprise.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I discover new languages and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kos-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kosrjc)
+  </div>
