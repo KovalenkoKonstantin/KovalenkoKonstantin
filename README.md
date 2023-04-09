@@ -1,19 +1,4 @@
-### Hi there 👋
 
-<!--
-**KovalenkoKonstantin/KovalenkoKonstantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
@@ -30,5 +15,12 @@ Here are some ideas to get you started:
    <a href="https://vk.com/r_j_c">
   <img src="https://img.shields.io/badge/vk-blue?style=flate&logo=vk&logoColor=white" alt="vk Badge"/>
     </a>
+  <a href="https://t.me/kosrjc">
+  <img src="https://img.shields.io/badge/telegram-blue?style=flate&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=KovalenkoKonstantin&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
