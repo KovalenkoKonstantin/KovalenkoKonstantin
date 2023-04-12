@@ -62,7 +62,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png" title="Maven" **alt="Maven" width="70" height="20"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" title="DataGrip" **alt="DataGrip" width="40" height="40"/> 
-      <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="40" height="40"/> 
+      <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="20" height="20"/> 
       
 </div>
     
