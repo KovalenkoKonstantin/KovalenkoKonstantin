@@ -60,7 +60,7 @@
   <img src="https://gluonhq.com/wp-content/uploads/2015/09/javafx_logo1-300x278@2x.jpg" title="Java-FX" **alt="Java-FX" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ IDEA" **alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png" title="Maven" **alt="Maven" width="90" height="30"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png" title="Maven" **alt="Maven" width="70" height="20"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" title="DataGrip" **alt="DataGrip" width="40" height="40"/> 
       
 </div>
