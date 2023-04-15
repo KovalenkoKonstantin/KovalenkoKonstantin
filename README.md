@@ -18,6 +18,11 @@
   <a href="https://t.me/kosrjc">
   <img src="https://img.shields.io/badge/telegram-blue?style=flate&logo=telegram&logoColor=white" alt="telegram Badge"/>
     </a>
+  </h1>
+  <div align="center">
+  <a href="https://my.indeed.com/p/konstantink-30kx0l4">
+  <img src="https://img.shields.io/badge/indeed-blue?style=flate&logo=indeed&logoColor=white" alt="indeed Badge"/>
+</div>
 </div>
 <img src="https://komarev.com/ghpvc/?username=KovalenkoKonstantin&style=flat-square&color=blue" alt=""/>
 <h1>
