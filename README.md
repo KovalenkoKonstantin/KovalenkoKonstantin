@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flate&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   <a href="https://www.facebook.com/Kostua">
-  <img src="https://img.shields.io/badge/facebook-blue?style=flate&logo=facebooke&logoColor=white" alt="facebook Badge"/>
+  <img src="https://img.shields.io/badge/facebook-blue?style=flate&logo=facebook&logoColor=white" alt="facebook Badge"/>
     </a>
   <a href="https://hh.ru/resume/93f5fa4cff0baee5240039ed1f79306c754752">
   <img src="https://img.shields.io/badge/hh-red?style=flat-square&logo=hh&logoColor=white" alt="hh Badge"/>
