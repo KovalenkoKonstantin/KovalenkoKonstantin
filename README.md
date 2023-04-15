@@ -63,7 +63,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png" title="Maven" **alt="Maven" width="70" height="20"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" title="DataGrip" **alt="DataGrip" width="40" height="40"/> 
       <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="30" height="30"/> 
-      <img src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" title="Eclipse" **alt="Eclipse" width="30" height="30"/> 
+      <img src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" title="Eclipse" **alt="Eclipse" width="60" height="40"/> 
       
 </div>
     
