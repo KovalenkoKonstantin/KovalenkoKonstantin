@@ -69,7 +69,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" title="DataGrip" **alt="DataGrip" width="40" height="40"/> 
       <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="30" height="30"/> 
       <img src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" title="Eclipse" **alt="Eclipse" width="80" height="35"/> 
-      <img src="https://sicuel.es/wp-content/uploads/2022/12/sicuel_azure_data_studio-250x175.jpg](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure Data Studio" **alt="Azure" width="80" height="35"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure Data Studio" **alt="Azure Data Studio" width="80" height="35"/> 
 </div>
     
  ---
