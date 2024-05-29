@@ -56,23 +56,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microfost SQL Server" width="40" height="40"/>&nbsp;      
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" title="VisualBisic" alt="VisualBisic" width="40" height="40"/>&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp; 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="Excel" alt="Excel" width="20" height="20"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; 
   <img src="https://networkencyclopedia.com/wp-content/uploads/2020/04/transact-sql.jpg" title="Transact-SQL" **alt="Transact-SQL" width="40" height="40"/>
   <img src="https://gluonhq.com/wp-content/uploads/2015/09/javafx_logo1-300x278@2x.jpg" title="Java-FX" **alt="Java-FX" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ IDEA" **alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png" title="Maven" **alt="Maven" width="70" height="20"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png" title="Maven" **alt="Maven" width="50" height="15"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" title="DataGrip" **alt="DataGrip" width="40" height="40"/> 
   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="30" height="30"/> 
-  <img src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" title="Eclipse" **alt="Eclipse" width="80" height="35"/> 
+  <img src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" title="Eclipse" **alt="Eclipse" width="60" height="25"/> 
   <img src="https://code.benco.io/icon-collection/azure-docs/azure-data-studio.svg" title="Azure Data Studio" **alt="Azure Data Studio" width="80" height="35"/>
   <img src="https://d4.alternativeto.net/Jl9Yw3hAYcwsBTkniOxxtuExwZJGAJJ8A8nkefwuZww/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9naXRodWItZGVza3RvcF8xNzA0NDAucG5n.png" title="GitHub Desktop" **alt="GitHub Desktop" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" title="Git" **alt="Git" width="50" height="20"/>
-      <img src="https://gesia.es/wp-content/uploads/2017/12/excel-power-pivot-intermedio.png" title="Power Pivot" **alt="Power Pivot" width="40" height="40"/> 
-      <img src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?h=210" title="Power BI" **alt="Power BI" width="40" height="40"/> 
+      <img src="https://palikhov.files.wordpress.com/2019/04/power-pivot-logo-600x202.png" title="Power Pivot" **alt="Power Pivot" width="50" height="20"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" title="Power BI" **alt="Power BI" width="20" height="20"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" title="Pandas" **alt="Pandas" width="50" height="20"/> 
 </div>
     
  ---
