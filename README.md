@@ -74,6 +74,7 @@
       <img src="https://palikhov.files.wordpress.com/2019/04/power-pivot-logo-600x202.png" title="Power Pivot" **alt="Power Pivot" width="50" height="20"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" title="Power BI" **alt="Power BI" width="20" height="20"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png?20200209204934" title="Pandas" **alt="Pandas" width="50" height="20"/> 
+      <img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" title="Git Bash" **alt="Git Bash" width="35" height="35"/> 
 </div>
     
  ---
