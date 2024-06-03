@@ -77,6 +77,7 @@
       <img src="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" title="Git Bash" **alt="Git Bash" width="35" height="35"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png?20200723114325" title="NumPy" **alt="NumPy" width="55" height="35"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TortoiseGit_logo.svg/400px-TortoiseGit_logo.svg.png" title="tortoisegit" **alt="tortoisegit" width="40" height="30"/> 
+      <img src="https://www.instalki.pl/wp-content/uploads/program/icons/SourceTree-1.png" title="sourcetree"  **alt="sourcetree" width="40" height="40"/> 
 </div>
     
  ---
