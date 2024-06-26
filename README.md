@@ -37,7 +37,7 @@
  <div align="left"> 
   # :woman_technologist: About Me :
   <div align="left"> 
-  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+  I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
  <div lign="left"> 
    
 - :telescope: I work as a software engineer and participate in the development of programs for enterprise.
