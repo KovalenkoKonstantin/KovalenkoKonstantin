@@ -82,6 +82,7 @@
 </div>
     
  ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovalenkoKonstantin&title=Followers,Commits,Repositories,MultipleLang,&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 # :fire: My Stats :
     
