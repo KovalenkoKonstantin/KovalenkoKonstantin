@@ -69,7 +69,7 @@
   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="30" height="30"/> 
   <img src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" title="Eclipse" **alt="Eclipse" width="60" height="25"/> 
   <img src="https://code.benco.io/icon-collection/azure-docs/azure-data-studio.svg" title="Azure Data Studio" **alt="Azure Data Studio" width="80" height="35"/>
-  <img src="https://d4.alternativeto.net/Jl9Yw3hAYcwsBTkniOxxtuExwZJGAJJ8A8nkefwuZww/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9naXRodWItZGVza3RvcF8xNzA0NDAucG5n.png" title="GitHub Desktop" **alt="GitHub Desktop" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" title="GitHub Desktop" **alt="GitHub Desktop" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" title="Git" **alt="Git" width="50" height="20"/>
       <img src="https://palikhov.files.wordpress.com/2019/04/power-pivot-logo-600x202.png" title="Power Pivot" **alt="Power Pivot" width="50" height="20"/> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" title="Power BI" **alt="Power BI" width="20" height="20"/> 
