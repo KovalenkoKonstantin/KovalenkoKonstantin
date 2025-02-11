@@ -23,28 +23,29 @@
   <a href="https://my.indeed.com/p/konstantink-30kx0l4">
   <img src="https://img.shields.io/badge/indeed-blue?style=flate&logo=indeed&logoColor=white" alt="indeed Badge"/>
 
-</div>
-<img src="https://komarev.com/ghpvc/?username=KovalenkoKonstantin&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KovalenkoKonstantin&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hello, I'm Konstantin
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> 
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
 
   ---
  <div align="left"> 
-  # :woman_technologist: About Me :
-  <div align="left"> 
-  I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
- <div lign="left"> 
+  # :man_technologist: About Me :
+  <div align="left">
+    I am a Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about automating business reporting and writing Python scripts.
+  </div>
    
-- :telescope: I work as a software engineer and participate in the development of programs for enterprise.
+- :telescope: My focus is on automating processes to enhance business efficiency and productivity through well-crafted Python solutions.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am also exploring technical content writing, sharing insights and practical advice on software development and automation.
 
-- :zap: In my free time, I discover new languages and read tech articles.
+- :zap: In my free time, I dive into new programming languages, read tech articles, and continually develop my skills.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kos-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kosrjc)
   </div>
