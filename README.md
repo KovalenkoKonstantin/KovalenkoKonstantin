@@ -66,8 +66,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/340px-Apache_Maven_logo.svg.png" title="Maven" **alt="Maven" width="50" height="15"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" title="DataGrip" **alt="DataGrip" width="40" height="40"/> 
-  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="30" height="30"/> 
-  <img src="https://ianskerrett.files.wordpress.com/2013/12/eclipse_logo_300_dpi_cmyk_926.jpg" title="Eclipse" **alt="Eclipse" width="60" height="25"/> 
+  <img src="https://www.edureka.co/blog/wp-content/uploads/2019/10/logo.png" title="SQL Managment Studio" **alt="SQL Managment Studio" width="30" height="30"/>   
   <img src="https://code.benco.io/icon-collection/azure-docs/azure-data-studio.svg" title="Azure Data Studio" **alt="Azure Data Studio" width="80" height="35"/>
   <img src="https://static-00.iconduck.com/assets.00/github-desktop-icon-2046x2048-r5plljad.png" title="GitHub Desktop" **alt="GitHub Desktop" width="40" height="40"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" title="Git" **alt="Git" width="50" height="20"/>
@@ -83,6 +82,14 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" title="Linux" alt="Linux" width="30" height="30"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/288px-Red_Hat_logo.svg.png" title="Red Hat" alt="Red Hat" width="30" height="30"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30"/>
+      <img src="https://cdn.cloud.ru/backend/marketplace/icons/nginx.svg" title="nginx" alt="nginx" width="30" height="30"/>
+      <img src="https://static-00.iconduck.com/assets.00/flask-icon-399x512-v0hqbifs.png" title="flask" alt="flask" width="30" height="30"/>
+      <img src="https://www.clipartmax.com/png/middle/146-1469802_logo-logo-docker.png" title="docker" alt="docker" width="50" height="30"/>
+      <img src="https://static-00.iconduck.com/assets.00/gunicorn-icon-2048x1245-14wjcllu.png" title="gunicorn" alt="gunicorn" width="40" height="30"/>
+      <img src="https://hedzr.com/assets/images/docker-compose-button.jpg" title="docker compose" alt="docker compose" width="60" height="30"/>
+      <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/sqlite370.svg-5360687.png" title="SQLite" alt="SQLite" width="40" height="30"/>
+      <img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" title="bash" alt="bash" width="60" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" title="vscode" alt="code" width="30" height="30"/>
 </div>
     
  ---
